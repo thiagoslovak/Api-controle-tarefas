@@ -10,7 +10,7 @@ Api desenvolvida utilizando padrões REST e MVC:
 
 ### Instruções de uso da aplicação:
 
-- Import o arquivo controle-tarefas.postman_collection.json, no Postman.
+- Import o arquivo [controle-tarefas.postman_collection.json]("https://github.com/thiagoslovak/Api-controle-tarefas/blob/master/controle-tarefas.postman_collection.json"), no Postman.
 - Usando Docker:
   - Vá até a pasta src/main/docker e rode esse comando no CLI : docker-compose up. Irá subir a aplicação no docker com o banco de dados.
 
