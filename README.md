@@ -3,6 +3,7 @@
 Api desenvolvida utilizando padrões REST e MVC:
 
 - Java 11.
+- PostgreSql.
 - Spring Boot.
 - Spring Data.
 - Junit.
